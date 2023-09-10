@@ -18,7 +18,7 @@ Certainly! Here's the updated list of Angular exercises and sample projects with
 - Use Firebase's real-time database to sync data across devices.
 - Implement user authentication for secure access to the app.
 
-## Day 3: Build a Blog App with Angular and NestJS
+## Day 3-5: Build a Blog App with Angular and NestJS
 
 **Project Requirements:**
 - Create an Angular front-end for a blog application.
@@ -27,7 +27,7 @@ Certainly! Here's the updated list of Angular exercises and sample projects with
 - Integrate user authentication for creating and managing blog content.
 - Display a list of blog posts and allow users to view and comment on them.
 
-## Day 4: Build a Weather App with Angular and OpenWeatherMap
+## Day 6-8: Build a Weather App with Angular and OpenWeatherMap
 
 **Project Requirements:**
 - Develop an Angular app to display weather information.
@@ -35,7 +35,7 @@ Certainly! Here's the updated list of Angular exercises and sample projects with
 - Allow users to search for weather forecasts by city or location.
 - Present weather information in a user-friendly manner with icons and descriptions.
 
-## Day 5: Build a Social Media App with Angular and Firebase
+## Day 9-14: Build a Social Media App with Angular and Firebase
 
 **Project Requirements:**
 - Create a social media app using Angular for the front end.
@@ -43,7 +43,7 @@ Certainly! Here's the updated list of Angular exercises and sample projects with
 - Implement features like user profiles, posting updates, liking, and commenting on posts.
 - Enable users to follow other users and receive real-time updates on their feed.
 
-## Day 6: Build a Game with Angular and Phaser
+## Day 15-20: Build a Game with Angular and Phaser
 
 **Project Requirements:**
 - Build a 2D game using the Phaser framework.
@@ -52,7 +52,7 @@ Certainly! Here's the updated list of Angular exercises and sample projects with
 - Add user interactions and controls to play the game.
 - Enhance the game with animations and sound effects.
 
-## Day 7: Build a Progressive Web App (PWA) with Angular
+## Day 21-25: Build a Progressive Web App (PWA) with Angular
 
 **Project Requirements:**
 - Develop a Progressive Web App (PWA) using Angular.
@@ -61,7 +61,7 @@ Certainly! Here's the updated list of Angular exercises and sample projects with
 - Create a responsive design for various screen sizes.
 - Enable push notifications for real-time updates.
 
-## Day 8: Build a Single Page Application (SPA) with Angular
+## Day 26-30: Build a Single Page Application (SPA) with Angular
 
 **Project Requirements:**
 - Create a Single Page Application (SPA) using Angular.
@@ -69,7 +69,7 @@ Certainly! Here's the updated list of Angular exercises and sample projects with
 - Implement client-side routing for different sections of the app.
 - Enhance the user experience with smooth transitions and animations.
 
-## Day 9: Build a Serverless Angular App
+## Day 31-35: Build a Serverless Angular App
 
 **Project Requirements:**
 - Develop an Angular app that utilizes serverless computing.
@@ -77,7 +77,7 @@ Certainly! Here's the updated list of Angular exercises and sample projects with
 - Store data and assets in cloud storage.
 - Ensure scalability and cost-efficiency through serverless architecture.
 
-## Day 10: Build a Hybrid App with Angular
+## Day 36+: Build a Hybrid App with Angular
 
 **Project Requirements:**
 - Create a hybrid app using Angular, combining web technologies and native technologies.
