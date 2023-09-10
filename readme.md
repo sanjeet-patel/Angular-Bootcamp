@@ -1,4 +1,3 @@
-Certainly! Here's the updated list of Angular exercises and sample projects with day counts added to each practice title:
 
 ## Day 1: Build a Simple Angular App with Material Design
 
